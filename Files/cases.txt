@@ -1,0 +1,4 @@
+1|kigali|fever|27
+2|nyabihu|fever|27
+3|nyarugenge|covid|20
+4|nyarugenge|covid|20
